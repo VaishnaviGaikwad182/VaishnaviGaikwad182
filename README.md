@@ -12,29 +12,29 @@ A self-driven learner and coder with a focus on building practical solutions tha
 ## 🛠️ Technical Skills
 
 ### 📜 Languages  
-C++, JavaScript, HTML, CSS, SQL
+[![My Skills](https://skillicons.dev/icons?i=cpp,py&theme=light)](https://skillicons.dev)
 
 ### 🌐 Web Development  
-React.js, Node.js, Express.js, Vite, Tailwind CSS
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,npm,express,figma,postman,mysql,mongodb&theme=light)](https://skillicons.dev)
 ### 🧠 Others  
-Salesforce CRM, Apex Basics, Lightning Web Components  
-Git & GitHub, Firebase, MySQL
+[![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,sklearn,vscode,git,github&theme=light)](https://skillicons.dev)
 
 ## 💼 Experience & Projects 
 
-### 🔹 Learn2Excel – *EdTech Platform*  
-**Full Stack Project (Ongoing)**  
-- Personalized learning dashboard with quiz analytics  
-- Backend with Node.js + MySQL for user and course tracking  
-- Adaptive content recommendation engine (in development)
+### 🔹Learn2Excel – Online Skill Development Platform | HTML, CSS, Javascript, Node.js, Express.js, MySQL 
+• Designed and built responsive UI for Learn2Excel using HTML, CSS, and JavaScript, ensuring 
+cross-device compatibility and clean user experience. 
+• Created interactive pages including Login, Signup, and Quiz Dashboard with dynamic user feedback 
+and form validations. 
+• Integrated a simple interactive game into the Learn2Excel platform to enhance user engagement. 
 
-### 🔹 Cooking Time Game  
-**Frontend HTML/CSS/JS**  
-- Time management game for a cooking website  
-- Random order generation with fun visuals  
-
----
+### 🔹Sleep Disorder Prediction | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn 
+• Built a binary classification model to predict future sleep disorder risk with 96% accuracy, using 
+precision-recall metrics for performance evaluation. 
+• Achieved high model performance with F1-scores of 0.97 and 0.95 for both classes, ensuring reliable 
+predictions on unseen data. 
+• Identified 9 at-risk individuals without current sleep disorders, supporting early intervention through 
+predictive analytics.
 
 ## 📚 Education
 
@@ -43,21 +43,24 @@ Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.9
 
 ## 📜 Certifications
 
-- C++ DSA Course  
-- 
+- **Introduction to Large Language Models (NPTEL)**
+Completed an online course covering foundational concepts and architectures of LLMs, including 
+transformers and applications in NLP.
+
+- **Data Structures in C++ (Scaler)**
+Gained hands-on experience with arrays, linked lists, trees, graphs, and algorithms using C++. 
+
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGaikwad182&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGaikwad182&layout=donut)](https://github.com/VaishnaviGaikwad182/github-readme-stats&theme=radical)
 
 ## 🤝 Let's Connect
 
-🌐 [LinkedIn](https://linkedin.com) *(Add your actual profile)*  
-📧 Email: *your-email@example.com*  
+🌐 [LinkedIn](https://linkedin.com) 
+📧 Email: vaishnavig182@gmail.com
 🌟 Always open to new learning opportunities & collaborations!
-
----
 
 > _"First, solve the problem. Then, write the code."_ — John Johnson
 
