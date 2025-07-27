@@ -47,7 +47,7 @@ Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.9
 - 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182)](https://github.com/VaishnaviGaikwad182/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect
 
