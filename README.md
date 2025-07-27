@@ -1,13 +1,13 @@
 ## Vaishnavi Gaikwad
 **Frontend Developer | Salesforce Intern | Tech Enthusiast**
 
-## 👩‍💻 About Me
+## About Me
 
-🎓T.Y. B.Tech Computer Student @ Pimpri Chinchwad College of Engineering, Pune
+**T.Y. B.Tech Computer Student @ Pimpri Chinchwad College of Engineering, Pune**
 
-💡 Passionate about Full Stack Development, AI and EdTech Solutions  
+Passionate about Full Stack Development, AI and EdTech Solutions  
 
-💻 Exploring React, Node.js, MySQL and Salesforce  
+Exploring React, Node.js, MySQL and Salesforce  
 
 A self-driven learner and coder with a focus on building practical solutions that improve lives. Currently working on educational apps, cooking games, and adaptive learning dashboards.
 
@@ -21,7 +21,7 @@ A self-driven learner and coder with a focus on building practical solutions tha
 ### Others  
 [![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,sklearn,vscode,git,github&theme=light)](https://skillicons.dev)
 
-## 💼 Experience & Projects 
+## Experience & Projects 
 
 ### 🔹Learn2Excel – Online Skill Development Platform | HTML, CSS, Javascript, Node.js, Express.js, MySQL 
 • Designed and built responsive UI for Learn2Excel using HTML, CSS, and JavaScript, ensuring 
@@ -38,7 +38,7 @@ predictions on unseen data.
 • Identified 9 at-risk individuals without current sleep disorders, supporting early intervention through 
 predictive analytics.
 
-## 📚 Education
+## Education
 
 **B.Tech in Computer Engineering**
 Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.9
@@ -49,7 +49,7 @@ Gayatri College of Commerce and Science, Pune | Year: 2022-23 | Percentage: 83.5
 **Class 10 (SSC)**  
 Acharya Shri Anand Rushiji English Medium School, Pune | Year: 2021-22 | Percentage: 96.40 %
 
-## 📜 Certifications
+## Certifications
 
 - **Introduction to Large Language Models (NPTEL)**
 Completed an online course covering foundational concepts and architectures of LLMs, including 
@@ -58,17 +58,17 @@ transformers and applications in NLP.
 - **Data Structures in C++ (Scaler)**
 Gained hands-on experience with arrays, linked lists, trees, graphs, and algorithms using C++. 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGaikwad182&layout=donut)](https://github.com/VaishnaviGaikwad182/github-readme-stats)
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<a href="[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
-</a> Email: vaishnavig182@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294))
+
+Email: vaishnavig182@gmail.com
 
 Always open to new learning opportunities & collaborations!
 
