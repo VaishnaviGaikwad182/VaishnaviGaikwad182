@@ -38,8 +38,14 @@ predictive analytics.
 
 ## 📚 Education
 
-B.Tech in Computer Engineering
+**B.Tech in Computer Engineering**
 Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.9
+
+**Class 12 (HSC) – [Science]**  
+Gayatri College of Commerce and Science, Pune | Year: 2022-23 | Percentage: 83.50 %
+
+**Class 10 (SSC)**  
+Acharya Shri Anand Rushiji English Medium School, Pune | Year: 2021-22 | Percentage: 96.40 %
 
 ## 📜 Certifications
 
@@ -52,13 +58,13 @@ Gained hands-on experience with arrays, linked lists, trees, graphs, and algorit
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGaikwad182&layout=donut)](https://github.com/VaishnaviGaikwad182/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGaikwad182&layout=donut)](https://github.com/VaishnaviGaikwad182/github-readme-stats)
 
 ## 🤝 Let's Connect
 
-🌐 [LinkedIn](https://linkedin.com) 
+🌐 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)) 
 📧 Email: vaishnavig182@gmail.com
 🌟 Always open to new learning opportunities & collaborations!
 
