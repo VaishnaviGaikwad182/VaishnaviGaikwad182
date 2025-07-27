@@ -66,7 +66,7 @@ Gained hands-on experience with arrays, linked lists, trees, graphs, and algorit
 
 ## 🤝 Let's Connect
 
-LinkedIn: <a href="(https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)">
+[LinkedIn](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)
 
 Email: vaishnavig182@gmail.com
 
