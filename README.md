@@ -16,7 +16,7 @@ A self-driven learner and coder with a focus on building practical solutions tha
 ### 🔹Web Development  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,npm,express,figma,postman,mysql,mongodb&theme=light)](https://skillicons.dev)
 ### 🔹Others  
-[![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,sklearn,vscode,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,vscode,git,github&theme=light)](https://skillicons.dev)
 
 ## Experience & Projects 
 
