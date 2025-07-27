@@ -13,12 +13,12 @@ A self-driven learner and coder with a focus on building practical solutions tha
 
 ## 🛠️ Technical Skills
 
-### 📜 Languages  
+### Languages  
 [![My Skills](https://skillicons.dev/icons?i=cpp,py&theme=light)](https://skillicons.dev)
 
-### 🌐 Web Development  
+### Web Development  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,npm,express,figma,postman,mysql,mongodb&theme=light)](https://skillicons.dev)
-### 🧠 Others  
+### Others  
 [![My Skills](https://skillicons.dev/icons?i=ai,tensorflow,sklearn,vscode,git,github&theme=light)](https://skillicons.dev)
 
 ## 💼 Experience & Projects 
@@ -69,6 +69,14 @@ Gained hands-on experience with arrays, linked lists, trees, graphs, and algorit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] :vaishnavig182@gmail.com
+
+<a href="mailto:vaishnavig182@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" height="30" width="30"/>
+</a>
+&nbsp;
+<a href="[https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
+</a>
 
 Always open to new learning opportunities & collaborations!
 
