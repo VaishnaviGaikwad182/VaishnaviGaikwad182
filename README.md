@@ -4,7 +4,9 @@
 ## 👩‍💻 About Me
 
 🎓T.Y. B.Tech Computer Student @ Pimpri Chinchwad College of Engineering, Pune
+
 💡 Passionate about Full Stack Development, AI and EdTech Solutions  
+
 💻 Exploring React, Node.js, MySQL and Salesforce  
 
 A self-driven learner and coder with a focus on building practical solutions that improve lives. Currently working on educational apps, cooking games, and adaptive learning dashboards.
@@ -64,9 +66,11 @@ Gained hands-on experience with arrays, linked lists, trees, graphs, and algorit
 
 ## 🤝 Let's Connect
 
-🌐 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)) 
-📧 Email: vaishnavig182@gmail.com
-🌟 Always open to new learning opportunities & collaborations!
+<a href="[https://www.linkedin.com/in/yushi95](https://www.linkedin.com/in/vaishnavi-gaikwad-675093294)/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+Email: vaishnavig182@gmail.com
+
+Always open to new learning opportunities & collaborations!
 
 > _"First, solve the problem. Then, write the code."_ — John Johnson
 
