@@ -6,6 +6,7 @@
 **T.Y. B.Tech Computer Student @ Pimpri Chinchwad College of Engineering, Pune**
 
 Passionate about Full Stack Development, AI and EdTech Solutions.  
+
 A self-driven learner and coder with a focus on building practical solutions that improve lives. Currently working on educational apps, cooking games, and adaptive learning dashboards.
 
 ## Technical Skills
