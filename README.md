@@ -57,11 +57,6 @@ transformers and applications in NLP.
 🔹 **Data Structures in C++ (Scaler)**
 Gained hands-on experience with arrays, linked lists, trees, graphs, and algorithms using C++. 
 
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGaikwad182&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGaikwad182&layout=donut)](https://github.com/VaishnaviGaikwad182/github-readme-stats)
 
 ## Let's Connect
 
