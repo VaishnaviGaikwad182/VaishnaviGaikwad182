@@ -1,5 +1,5 @@
 ## Vaishnavi Gaikwad
-**Frontend Developer | Salesforce Intern | Tech Enthusiast**
+**Web Developer | Salesforce Intern | Tech Enthusiast**
 
 ## About Me
 
