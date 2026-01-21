@@ -47,7 +47,7 @@ cross-device compatibility and clean user experience.
 ## Education
 
 🔹**B.Tech in Computer Engineering**
-Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.9
+Pimpri Chinchwad College of Engineering, Pune | 2023-Present | CGPA: 8.88
 
 🔹**Class 12 (HSC) – [Science]**  
 Gayatri College of Commerce and Science, Pune | Year: 2022-23 | Percentage: 83.50 %
