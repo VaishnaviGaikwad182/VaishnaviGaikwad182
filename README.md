@@ -1,5 +1,5 @@
 ## Vaishnavi Gaikwad
-**Full Stack Web Developer | Salesforce Intern | Tech Enthusiast**
+**Full Stack Web Developer | Salesforce Intern | AI Enthusiast**
 
 ## About Me
 
@@ -7,7 +7,7 @@
 
 Passionate about Full Stack Development, AI and EdTech Solutions.  
 
-A self-driven learner and coder with a focus on building practical solutions that improve lives. Currently working on educational apps, cooking games, and adaptive learning dashboards.
+A self-driven learner and coder with a focus on building practical solutions that improve lives. I love building impactful digital experiences that solve real-world problems. Always exploring the intersection of technology, creativity, and lifelong learning.
 
 ## Technical Skills
 
@@ -29,13 +29,19 @@ cross-device compatibility and clean user experience.
 
 • Integrated a simple interactive game into the Learn2Excel platform to enhance user engagement. 
 
-### 🔹Sleep Disorder Prediction | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn 
-• Built a binary classification model to predict future sleep disorder risk with 96% accuracy, using precision-recall metrics for performance evaluation. 
+### 🔹Personalized Learning Tool – Full-Stack Web Application | React, Vite, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
+• Built a full-stack learning platform with role-based teacher and student dashboards.
 
-• Achieved high model performance with F1-scores of 0.97 and 0.95 for both classes, ensuring reliable predictions on unseen data. 
+• Designed responsive and user-friendly UI using React, Vite, and Tailwind CSS.
 
-• Identified 9 at-risk individuals without current sleep disorders, supporting early intervention through 
-predictive analytics.
+• Developed REST APIs with Node.js, Express.js, and MongoDB for secure data handling.
+
+### 🔹Penman-Planner – Evaporation & Water Storage Planning Tool | React, Tailwind CSS, Python, FastAPI, MongoDB
+• Created a scientific web app to calculate evaporation rates using the Penman equation.
+
+• Developed an interactive React frontend with charts for data visualization.
+
+• Implemented a FastAPI backend with MongoDB for real-time and historical analysis.
 
 ## Education
 
